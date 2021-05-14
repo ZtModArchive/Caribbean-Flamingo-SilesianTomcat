@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+     <FlamingoCubanEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\FlamingoCuban\FlamingoCubanEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </FlamingoCubanEmote>
+   </BFParticleDictionary>

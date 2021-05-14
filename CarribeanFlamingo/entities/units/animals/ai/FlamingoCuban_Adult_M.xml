@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="FlamingoCuban_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Aves>
+                  <Phoenicopteriformes>
+                     <Phoenicopteridae>
+                        <FlamingoCuban>
+                           <FlamingoCuban_Adult>
+                              <FlamingoCuban_Adult_M/>
+                           </FlamingoCuban_Adult>
+                        </FlamingoCuban>
+                     </Phoenicopteridae>
+                  </Phoenicopteriformes>
+               </Aves>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\FlamingoCuban\FlamingoCuban_Adult_M_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="FlamingoCuban_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,4)"/>
+   </shared>
+</BFTypedBinder>

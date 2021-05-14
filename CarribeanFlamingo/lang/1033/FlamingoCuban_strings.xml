@@ -1,0 +1,173 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <FlamingoCuban>Carribean Flamingo</FlamingoCuban>
+      <FlamingoCuban_stt>Carribean flamingo</FlamingoCuban_stt>
+      <FlamingoCuban_lower>the carribean flamingo</FlamingoCuban_lower>
+      <FlamingoCuban_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carribean Flamingo</b>
+         </color>
+         <br/>
+         Click to select and then place a carribean flamingo, most known as cuban flamingo.
+      </FlamingoCuban_ltt>
+      <!--egg names-->
+      <FlamingoCuban_Egg>Carribean Flamingo egg</FlamingoCuban_Egg>
+      <FlamingoCuban_Egg_stt>Carribean flamingo egg</FlamingoCuban_Egg_stt>
+      <FlamingoCuban_Egg_lower>the carribean flamingo egg</FlamingoCuban_Egg_lower>
+      <FlamingoCuban_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carribean Flamingo Egg</b>
+         </color>
+         <br/>
+         Click this icon to select the carribean flamingo egg. Move the cursor over the world and click to place the carribean flamingo egg.
+       </FlamingoCuban_Egg_ltt>
+      <!--gift names-->
+      <FlamingoCuban_Gift>Carribean Flamingo Backpack</FlamingoCuban_Gift>
+      <FlamingoCuban_Gift_stt>Carribean flamingo backpack</FlamingoCuban_Gift_stt>
+      <FlamingoCuban_Gift_lower>the carribean flamingo backpack</FlamingoCuban_Gift_lower>
+      <FlamingoCuban_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carribean Flamingo Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the carribean flamingo will buy this gift.
+      </FlamingoCuban_Gift_ltt>
+<FlamingoCuban_Gift_Adult>Carribean Flamingo Backpack</FlamingoCuban_Gift_Adult>
+      <FlamingoCuban_Gift_Adult_stt>Carribean flamingo backpack</FlamingoCuban_Gift_Adult_stt>
+      <FlamingoCuban_Gift_Adult_lower>the carribean flamingo backpack</FlamingoCuban_Gift_Adult_lower>
+      <FlamingoCuban_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carribean Flamingo Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the carribean flamingo will buy this gift.
+      </FlamingoCuban_Gift_Adult_ltt>
+
+   </entityname>
+   <zoopedia_flamingocuban>
+      <entry>Flamingo, Carribean</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/FlamingoCuban/FlamingoCuban_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>
+<cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wetlands<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Carribean <br/></color>
+                  <img src="ui/icon_maplocations/Wetland_Carribean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Birds <i>(Aves)</i><br/>Order: Flamingos <i>(Phoenicopteriformes)</i><br/>Family: Flamingos <i>(Phoenicopteridae)</i><br/>Genus: <i>Phoenicopterus</i><br/>Species:<i>ruber</i><br/>Subspecies:<i>ruber</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Carribean Flamingo Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Their pink or reddish color comes from the rich sources of carotenoid pigments (like the pigments of carrots) in the algae and small crustaceans that the birds eat.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Caribbean flamingos are the brightest, showing their true colors of red, pink, or orange on their legs, bills, and faces.
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">One of the oldest bird families: fossils of primitive forms date back 50 million years.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Height: 120 - 145 cm (47-57 in.)
+Body Weight: males  2.8 kg (6.1 lbs), females 2.2 kg (4.8 lbs)
+Wing Length: males 401-425 mm (15.8-16.7 in.), females 370-408 mm (14.6-16.0 in.)
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Highly social, forming large colonies with tens or hundreds of thousands of individuals.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dedicated for my daughters Romana and Anezka.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Carribean flamingo in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo.</color>
+            <p/>Lives in Central America and in the northern part of South America.
+
+
+<p/> Not only is the plumage of the flamingos beautiful but also their appearance is magnificent. They have a long neck and long, slim legs with webbed toes. Their bill is relatively high and hooked from the middle. Many birds' lower jaws are more flexible whereas it is visa versa with flamingos'. The edges of the bill are covered with horny slates that filter food even when the beak is closed; to do this they use their strong fleshy tongue. Its long legs enable the flamingo to wade through deep water and mud in search of food, and its long neck allows it to reach food at some depth. It can also swim easily and will partially submerge itself in order to feed. The plumage of all flamingos is reddish (pink) due to carotene (pigment in e.g. carrots) that can be found in some algae that are eaten by shellfish and consequently by flamingos. In the ZOO the flamingos are fed with a special granulated mixture based on crops (i.e. corn, soy extract, meat and fish powder, soy oil, vitamins, and grated carrot seasoned with salt-water fish). The distinction between males and females is not found. The male is only a little bit bigger. They build their nest on shallow waters or swampy banks and use it for one year. They lay 1-2 white eggs; incubation is 30-32 days. The voice of flamingos resembles that of geese. They are very sociable birds.
+                   
+                               
+        </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"><u><color r="255" g="231" b="135"> Recoloured and coded animal by Roman Kocourek-Silesian Tomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_flamingocuban>
+</ZT2Strings>
